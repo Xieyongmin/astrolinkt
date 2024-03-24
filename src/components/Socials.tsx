@@ -3,20 +3,15 @@ import { Simple } from "./icons";
 
 const socials = [
   {
-    href: "https://github.com",
-    name: "GitHub",
-    icon: Simple.IconGitHub,
+    href: "https://www.xiaohongshu.com/user/profile/656194ae0000000008000ba3",
+    name: "小红书",
+    icon: Simple.IconXiaohongshu,
   },
   {
-    href: "https://x.com",
-    name: "X",
-    icon: Simple.IconX,
-  },
-  {
-    href: "https://www.youtube.com",
-    name: "Youtube",
-    icon: Simple.IconYoutube,
-  },
+    href: "https://res-joe-blog.midware.dev/midware-wechat.JPG",
+    name: "微信",
+    icon: Simple.IconWechat,
+  }
 ];
 
 export default () => {
